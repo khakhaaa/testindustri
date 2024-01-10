@@ -5,3 +5,6 @@ git commit -m "pesan commit"
 git push -u origin main
 git pull
 git clone linkrepositor
+
+
+======================================
